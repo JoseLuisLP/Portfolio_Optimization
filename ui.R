@@ -1,4 +1,5 @@
-library(shiny)
+#library(shiny)
+
 shinyUI(fluidPage (
   theme = shinytheme("darkly"),
   headerPanel("Portfolio Optimization"),
